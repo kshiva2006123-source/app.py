@@ -1,4 +1,4 @@
-# GSS.py
+# app.py
 greetings = ["hello", "hi", "hey", "greetings"]
 goodbyes = ["bye", "goodbye", "see you"]
 # The conversation will run for 5 turns at most
